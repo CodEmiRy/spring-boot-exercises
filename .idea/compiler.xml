@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="calculator-final" />
+        <module name="calculator-start" />
+        <module name="configuration-final" />
+        <module name="configuration-properties-final" />
+        <module name="configuration-properties-start" />
+        <module name="configuration-start" />
+        <module name="constructor-setter-field-final" />
+        <module name="constructor-setter-field-start" />
+        <module name="helloworld-final" />
+        <module name="profiles-final" />
+        <module name="profiles-start" />
+        <module name="prop-and-yml-final" />
+        <module name="prop-and-yml-start" />
+        <module name="scope-final" />
+        <module name="scope-start" />
+        <module name="using-primary-final" />
+        <module name="using-primary-start" />
+        <module name="using-qualifier-final" />
+        <module name="using-qualifier-start" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="calculator-final" options="-parameters" />
+      <module name="calculator-start" options="-parameters" />
+      <module name="configuration-final" options="-parameters" />
+      <module name="configuration-properties-final" options="-parameters" />
+      <module name="configuration-properties-start" options="-parameters" />
+      <module name="configuration-start" options="-parameters" />
+      <module name="constructor-setter-field-final" options="-parameters" />
+      <module name="constructor-setter-field-start" options="-parameters" />
+      <module name="helloworld-final" options="-parameters" />
+      <module name="profiles-final" options="-parameters" />
+      <module name="profiles-start" options="-parameters" />
+      <module name="prop-and-yml-final" options="-parameters" />
+      <module name="prop-and-yml-start" options="-parameters" />
+      <module name="scope-final" options="-parameters" />
+      <module name="scope-start" options="-parameters" />
+      <module name="using-primary-final" options="-parameters" />
+      <module name="using-primary-start" options="-parameters" />
+      <module name="using-qualifier-final" options="-parameters" />
+      <module name="using-qualifier-start" options="-parameters" />
+    </option>
+  </component>
+</project>

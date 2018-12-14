@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/_10_scope-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_10_scope-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_8_profiles-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_8_profiles-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_1_helloworld-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_2_calculator-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_2_calculator-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_6_prop-and-yml-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_6_prop-and-yml-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_4_using-primary-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_4_using-primary-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_9_configuration-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_9_configuration-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_5_using-qualifier-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_5_using-qualifier-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_3_constructor-setter-field-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_3_constructor-setter-field-start/pom.xml" />
+        <option value="$PROJECT_DIR$/_7_configuration-properties-final/pom.xml" />
+        <option value="$PROJECT_DIR$/_7_configuration-properties-start/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
